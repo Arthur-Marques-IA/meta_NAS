@@ -1,0 +1,11 @@
+# Dataset
+data/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Ambientes e Editores
+.vscode/
+.env
+# Arquivos de log e testes locais
+*.log
